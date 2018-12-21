@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-05 11:55+0300\n"
+"PO-Revision-Date: 2018-11-05 12:05+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: saphali-buy-now.php\n"
+
+#: saphali-buy-now.php:81
+msgid "Settings"
+msgstr ""
+
+#: saphali-buy-now.php:120 saphali-buy-now.php:139 saphali-buy-now.php:161
+msgid "or"
+msgstr "або"
+
+#: saphali-buy-now.php:120 saphali-buy-now.php:139 saphali-buy-now.php:161
+msgid "Buy Now"
+msgstr "Купити в 1 клік"
+
+#: saphali-buy-now.php:120 saphali-buy-now.php:123 saphali-buy-now.php:139
+msgid "Сообщение отправлено!"
+msgstr "Повідомлення надіслано!"
+
+#: saphali-buy-now.php:120 saphali-buy-now.php:123 saphali-buy-now.php:139
+msgid "Отправить не удалось!"
+msgstr "Не вдалося надіслати!"
+
+#: saphali-buy-now.php:120 saphali-buy-now.php:123 saphali-buy-now.php:139
+msgid ""
+"Не пройдена проверка на бота! Не используйте, пожалуйста, автоматические "
+"средства заполнения форм."
+msgstr ""
+"Не пройдена перевірка на бота! Будь ласка, не використовуйте автоматичні "
+"інструменти заповнення форм."
+
+#: saphali-buy-now.php:120 saphali-buy-now.php:123 saphali-buy-now.php:139
+msgid "Укажите корректный E-mail!"
+msgstr "Введіть корректний E-mail!"
+
+#: saphali-buy-now.php:120 saphali-buy-now.php:123 saphali-buy-now.php:139
+msgid "Обязательное поле!"
+msgstr "Обов&apos;язкове поле!"
+
+#: saphali-buy-now.php:185
+msgid "Обратный звонок. "
+msgstr ""
+
+#: saphali-buy-now.php:185
+#, php-format
+msgid "<h3>Перезвоните мне на номер: %s%s</h3>"
+msgstr ""
+
+#: saphali-buy-now.php:187
+msgid "Заказ с главной страницы. "
+msgstr ""
+
+#: saphali-buy-now.php:191
+msgid "Описание к заказу:"
+msgstr ""
+
+#: saphali-buy-now.php:191 saphali-buy-now.php:203
+#, php-format
+msgid "Номер телефона: %s%s"
+msgstr ""
+
+#: saphali-buy-now.php:193
+msgid "Заказ на: "
+msgstr ""
+
+#: saphali-buy-now.php:194
+msgid "заказ на '"
+msgstr ""
+
+#: saphali-buy-now.php:195
+msgid "Комментарий к заказу:"
+msgstr ""
+
+#: saphali-buy-now.php:203
+msgid " в количестве "
+msgstr ""
+
+#: saphali-buy-now.php:203
+msgid "&nbsp;шт."
+msgstr ""
+
+#: saphali-buy-now.php:344
+msgid "Быстрый заказ"
+msgstr "Купити в 1 клiк"
+
+#: saphali-buy-now.php:346
+msgid "Отправить"
+msgstr "Відправити"
+
+#: saphali-buy-now.php:354
+msgid "SKU"
+msgstr ""
+
+#: saphali-buy-now.php:362
+msgid "Выберите город (филиал)"
+msgstr "Вибрати місто (філію)"
+
+#: saphali-buy-now.php:364
+msgid "Выбрать..."
+msgstr "Вибрати..."
+
+#: saphali-buy-now.php:369
+msgid "Name"
+msgstr "Ім&apos;я"
+
+#: saphali-buy-now.php:372
+msgid "Email"
+msgstr ""
+
+#: saphali-buy-now.php:375
+msgid "Phone"
+msgstr "Телефон"
+
+#: saphali-buy-now.php:379
+msgid "Message"
+msgstr "Повідомлення"

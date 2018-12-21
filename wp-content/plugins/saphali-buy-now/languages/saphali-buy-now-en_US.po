@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Saphali Buy Now\n"
+"POT-Creation-Date: 2018-05-06 16:42+0300\n"
+"PO-Revision-Date: 2018-05-06 16:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: saphali-buy-now.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/load.php:7
+msgid "Заказы"
+msgstr "Orders"
+
+#: admin/load.php:19
+msgid "№ заказа"
+msgstr "# order"
+
+#: admin/load.php:22
+msgid "Имя"
+msgstr "Name"
+
+#: admin/load.php:25
+msgid "Телефон"
+msgstr "Phone"
+
+#: admin/load.php:28
+msgid "E-mail"
+msgstr ""
+
+#: admin/load.php:31
+msgid "Сведения о заказе"
+msgstr "Order Details"
+
+#: saphali-buy-now.php:79
+msgid "Settings"
+msgstr ""
+
+#: saphali-buy-now.php:118 saphali-buy-now.php:137 saphali-buy-now.php:159
+msgid "or"
+msgstr ""
+
+#: saphali-buy-now.php:118 saphali-buy-now.php:137 saphali-buy-now.php:159
+msgid "Buy Now"
+msgstr ""
+
+#: saphali-buy-now.php:118 saphali-buy-now.php:121 saphali-buy-now.php:137
+msgid "Сообщение отправлено!"
+msgstr "Message sent!"
+
+#: saphali-buy-now.php:118 saphali-buy-now.php:121 saphali-buy-now.php:137
+msgid "Отправить не удалось!"
+msgstr "The message could not be sent!"
+
+#: saphali-buy-now.php:118 saphali-buy-now.php:121 saphali-buy-now.php:137
+msgid ""
+"Не пройдена проверка на бота! Не используйте, пожалуйста, автоматические "
+"средства заполнения форм."
+msgstr "Not tested for the bot! Do not use, please, automatic forms filling."
+
+#: saphali-buy-now.php:118 saphali-buy-now.php:121 saphali-buy-now.php:137
+msgid "Укажите корректный E-mail!"
+msgstr "Specify a valid E-mail address!"
+
+#: saphali-buy-now.php:118 saphali-buy-now.php:121 saphali-buy-now.php:137
+msgid "Обязательное поле!"
+msgstr "Field is required!"
+
+#: saphali-buy-now.php:183
+msgid "Обратный звонок. "
+msgstr "Back call."
+
+#: saphali-buy-now.php:183
+#, php-format
+msgid "<h3>Перезвоните мне на номер: %s%s</h3>"
+msgstr "<h3>Call me at the number: %s%s</h3>"
+
+#: saphali-buy-now.php:185
+msgid "Заказ с главной страницы. "
+msgstr "Order from the main page."
+
+#: saphali-buy-now.php:189
+msgid "Описание к заказу:"
+msgstr "Order description:"
+
+#: saphali-buy-now.php:189 saphali-buy-now.php:201
+#, php-format
+msgid "Номер телефона: %s%s"
+msgstr "Phone number: %s%s"
+
+#: saphali-buy-now.php:191
+msgid "Заказ на: "
+msgstr "Order for:"
+
+#: saphali-buy-now.php:192
+msgid "заказ на '"
+msgstr "order for '"
+
+#: saphali-buy-now.php:193
+msgid "Комментарий к заказу:"
+msgstr "Note:"
+
+#: saphali-buy-now.php:201
+msgid " в количестве "
+msgstr "in the amount of"
+
+#: saphali-buy-now.php:201
+msgid "&nbsp;шт."
+msgstr "&nbsp;pieces"
+
+#: saphali-buy-now.php:341
+msgid "Быстрый заказ"
+msgstr "Quick order"
+
+#: saphali-buy-now.php:343
+msgid "Отправить"
+msgstr "Send"
+
+#: saphali-buy-now.php:351
+msgid "SKU"
+msgstr ""
+
+#: saphali-buy-now.php:359
+msgid "Выберите город (филиал)"
+msgstr "Select a city (branch)"
+
+#: saphali-buy-now.php:361
+msgid "Выбрать..."
+msgstr "Choose..."
+
+#: saphali-buy-now.php:366
+msgid "Name"
+msgstr ""
+
+#: saphali-buy-now.php:369
+msgid "Email"
+msgstr ""
+
+#: saphali-buy-now.php:372
+msgid "Phone"
+msgstr ""
+
+#: saphali-buy-now.php:376
+msgid "Message"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Saphali Buy Now"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://saphali.com/saphali-woocommerce-plugin-wordpress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Saphali Buy Now - быстрый заказ."
+msgstr "Saphali Buy Now - quick order."
+
+#. Author of the plugin/theme
+msgid "Saphali"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://saphali.com/"
+msgstr ""
